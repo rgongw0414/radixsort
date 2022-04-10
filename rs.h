@@ -27,7 +27,7 @@ void radixsort(int* arr, int len){
     strcat(format1, format2);
     strcat(format1, "d "); // format1: "%xd ", x: digit
     
-    printf("\ninitail:\n");
+    printf("\ninitial:\n");
     for (int i = 0; i < len; i++)
         printf(format1, arr[i]);
     putchar('\n');
