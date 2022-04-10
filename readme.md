@@ -11,7 +11,7 @@ gcc rs.c -lm && ./a.out 15 1000
 ```bash
 15 number, from 0 to 999
 
-initail:
+initial:
 745 278 157 101 480 139 122  90 675  77 593 921  70 727 652
 
 Radix sort, LSD first
